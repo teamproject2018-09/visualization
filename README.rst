@@ -6,8 +6,7 @@ Erik Tjong Kim Sang e.tjongkimsang(a)esciencecenter.nl
 
 This directory contains code and results for visualizing tweet data for the social media analysis of the Netherlands eScience Center of the team sprint of September 2018. The code and the results can be found in the subdirectory visualization.
 
-The data visualisations are based on csv data of tweets which have been collected with the code in the section _collect-tweets: https://github.com/teamproject2018-09/collect-tweets 
-... These data could not be redistributed here because of restrictions imposed by Twitter on sharing tweets.
+The data visualisations are based on csv data of tweets which have been collected with the code in the section _collect-tweets: https://github.com/teamproject2018-09/collect-tweets . These data could not be redistributed here because of restrictions imposed by Twitter on sharing tweets.
 
 The visualization directory contains five visualization images:
 
